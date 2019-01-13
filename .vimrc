@@ -1,0 +1,1 @@
+/home/greg/.vim/vimrc
