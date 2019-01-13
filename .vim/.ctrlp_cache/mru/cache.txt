@@ -1,0 +1,13 @@
+/home/greg/.vim/vimrc
+/home/greg/.vimrc
+/home/greg/vimrc/.git/COMMIT_EDITMSG
+/home/greg/vimrc/.vim/.git/config
+/home/greg/vimrc/.vimrc
+/home/greg/vimrc/.bashrc
+/home/greg/vimrc/README.md
+/home/greg/Documents/udemy/gride/src/season.js
+/home/greg/Documents/udemy/gride/src/index.js
+/home/greg/Documents/udemy/gride/.git/COMMIT_EDITMSG
+/home/greg/.bashrc
+/home/greg/.vim/plugins.vim
+/home/greg/Documents/udemy/gride/src/App.js
