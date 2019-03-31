@@ -47,7 +47,6 @@ if count(g:bundle_groups, 'general')
   Plug 'tpope/vim-fugitive'
   Plug 'troydm/easybuffer.vim'
   Plug 'vim-airline/vim-airline-themes'
-  Plug 'yuttie/comfortable-motion.vim'
 endif
 " DEVELOPER
 if count(g:bundle_groups, 'devel')
